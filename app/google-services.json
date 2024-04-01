@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "805457384615",
+    "firebase_url": "https://loans-bc5ea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "loans-bc5ea",
+    "storage_bucket": "loans-bc5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805457384615:android:376761985a24fb02e93782",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUFRTW5OkzM2v87NKfR16b0hzmvI86Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805457384615:android:e35945642a061ab9e93782",
+        "android_client_info": {
+          "package_name": "com.loans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUFRTW5OkzM2v87NKfR16b0hzmvI86Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

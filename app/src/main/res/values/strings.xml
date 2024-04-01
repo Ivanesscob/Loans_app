@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="text_start">New</string>
+    <string name="text_to_db">Show loans</string>
+    <string name="text_exit">Exit</string>
+    <string name="Prev">Loans</string>
+    <string name="cancel_menu">Menu</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="money">Money</string>
+    <string name="data">Input Data</string>
+    <string name="accept_button">Accept</string>
+</resources>
